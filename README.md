@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarath!
 
-<!--
-**Sarathjithu89/sarathjithu89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer passionate about building clean and scalable web applications.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- JavaScript | Node.js | Express | MongoDB
+- HTML/CSS | EJS | Bootstrap
+-  JWT | Razorpay
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🛒 [Zapstore](https://github.com/yourusername/zapstore) – A full-stack e-commerce app
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/sarath-a-8601a5201/)
+- [GitHub](https://github.com/Sarathjithu89)
