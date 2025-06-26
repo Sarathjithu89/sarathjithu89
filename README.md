@@ -15,7 +15,7 @@ I'm a full-stack developer building clean and scalable web applications.
 
 
 ## 🚀 Projects
-- 🛒 [Zapstore]([https://github.com/yourusername/zapstore](https://github.com/Sarathjithu89/Zapstore)) – A full-stack e-commerce app
+- 🛒 [Zapstore]([[https://github.com/Sarathjithu89/Zapstore]) – A full-stack e-commerce app
 
 ## 📊 GitHub Stats
 
