@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sarath A
 
-**MERN Stack Developer** based in Thrissur, Kerala, India — building scalable, user-friendly web applications with React, Node.js and MongoDB.
+**MERN Stack Developer** based in Thrissur, Kerala, India building scalable, user-friendly web applications with React, Node.js and MongoDB.
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+for+the+real+world" alt="Typing SVG" />
@@ -28,7 +28,9 @@ I'm a full-stack web developer with a strong interest in clean architecture, res
 ## 🚀 Projects
 
 ### 🎥 [vidMeet](https://vid-meet-pearl.vercel.app) — Real-time Video Conferencing
+
 A full-stack video conferencing platform for low-latency peer-to-peer calls, live chat, meeting history and subscription-based limits.
+
 - Create or join peer-to-peer meetings with unique IDs
 - Real-time chat with unread badges and persisted history
 - Mic, camera, participant list and invite-link controls
@@ -37,7 +39,9 @@ A full-stack video conferencing platform for low-latency peer-to-peer calls, liv
 - [Source code](https://github.com/Sarathjithu89/vidMeet)
 
 ### 🛒 [ZapStore](https://github.com/Sarathjithu89/Zapstore) — E-commerce Platform
+
 A server-rendered e-commerce platform for electronics with a customer storefront, admin dashboard, Razorpay checkout and full order management.
+
 - Product catalog with search, filters, wishlist and cart
 - Razorpay checkout with coupons, offers and wallet credits
 - Customer profiles, addresses, orders, returns and referrals
@@ -45,25 +49,13 @@ A server-rendered e-commerce platform for electronics with a customer storefront
 - **Tech:** EJS, Bootstrap, Node.js, Express, MongoDB, Redis, JWT, Razorpay, AWS
 
 ### 👨‍🎓 [Student Management](https://student-management-liard-two.vercel.app) — TypeScript Backend
+
 A TypeScript and Node.js backend for managing student records with a modular repository structure.
+
 - Full CRUD operations with validation and consistent error handling
 - Repository-based structure that keeps controllers readable and testable
 - **Tech:** TypeScript, Node.js, REST APIs
 - [Source code](https://github.com/Sarathjithu89/Student-management)
-
-### ✅ [To-Do Application](https://github.com/Sarathjithu89/React-todo-App) — React Task Manager
-A task management app built with React functional components and hooks, with browser persistence.
-- Add, edit, complete and delete tasks
-- `localStorage` persistence across refreshes
-- Reusable components and explicit conditional rendering
-- **Tech:** React.js, JavaScript, localStorage
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarathjithu89&show_icons=true&theme=radical" alt="Sarath's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathjithu89&layout=compact&theme=radical" alt="Top languages" height="165" />
-</div>
 
 ## ⚡ Fun Facts
 
